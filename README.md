@@ -13,4 +13,5 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2022 XYZ, Inc._
+_This is the develop branch so here should be more README.md stuff about what this program does._
+_This branch should also have more new features..._
